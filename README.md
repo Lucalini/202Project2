@@ -1,4 +1,5 @@
 # 202Project2
-In this project, I implemented a program to evaluate a postfix (Reverse Polish or RPN) expression.
-To make the program more versatile, I also created code to convert infix expressions (the kind used
-in standard arithmetic) and prefix (Polish or PN) expressions to postfix expressions. 
+This project has 3 main functions:
+It can evaluate a postfix expression, convert infix to posfix, and convert prefix to posfix. 
+(Postfix being Reverse Polish notation, prefix being Polish notation, and infix being our standard notation.
+The main data structure I used in this project was the stack.
